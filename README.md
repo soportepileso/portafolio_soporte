@@ -1,2 +1,5 @@
-# portafolio_soporte
-Este es el portafolio de todos los proyectos realizados por soporte
+# Projects
+Este folder contiene los proyectos que soporte de Pileso ha realizado.
+## Contents
+* [Project 1](ejemplo1)
+* [Project 2](my_first_repo)
